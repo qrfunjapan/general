@@ -1,4 +1,4 @@
-## Privacy Policy
+## Privacy Policy 
 
 I built the **QR Scanner** app as a Free app. This SERVICE is provided by **QrFunJapan** at no cost and is intended for use as is.
 
